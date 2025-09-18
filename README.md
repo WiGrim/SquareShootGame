@@ -22,7 +22,7 @@ Sound effects include background music, shooting sounds, and zombie moans, creat
 
 ## Distribute
 
-- [Download EXE](https://github.com/user-attachments/files/22411467/Square.Shoot.Game.v1.0.zip)  
+- [Download EXE]([https://github.com/user-attachments/files/22412050/Square.Shoot.Game.v1.1.zip)  
 
 ## Developers
 
@@ -49,7 +49,7 @@ MIT License
 
 ## Distribute
 
-- [Скачать EXE](https://github.com/user-attachments/files/22411467/Square.Shoot.Game.v1.0.zip)  
+- [Скачать EXE](https://github.com/user-attachments/files/22412050/Square.Shoot.Game.v1.1.zip)  
 
 ## Developers
 
